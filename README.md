@@ -11,8 +11,6 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **.NET, Blazor, Next.js, Angular, Django**
-
 - 📫 How to reach me **nicolasbarbosa250@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
